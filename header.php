@@ -14,7 +14,8 @@
 
 	<?php wp_head(); ?>
 </head>
-
+shoaib type
+shoaib type
 <body <?php body_class(); ?> <?php oceanwp_schema_markup( 'html' ); ?>>
 
 	<?php wp_body_open(); ?>

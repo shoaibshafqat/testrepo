@@ -4,8 +4,6 @@
  *
  * @package OceanWP WordPress theme
  */
- 
- 
 
 ?>
 kuch b type kr de...
